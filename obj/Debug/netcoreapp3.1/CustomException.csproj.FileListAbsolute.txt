@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\CustomException\CustomException\bin\Debug\netcoreapp3.1\CustomException.exe
+C:\Users\Hp\source\repos\CustomException\CustomException\bin\Debug\netcoreapp3.1\CustomException.deps.json
+C:\Users\Hp\source\repos\CustomException\CustomException\bin\Debug\netcoreapp3.1\CustomException.runtimeconfig.json
+C:\Users\Hp\source\repos\CustomException\CustomException\bin\Debug\netcoreapp3.1\CustomException.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\CustomException\CustomException\bin\Debug\netcoreapp3.1\CustomException.dll
+C:\Users\Hp\source\repos\CustomException\CustomException\bin\Debug\netcoreapp3.1\CustomException.pdb
+C:\Users\Hp\source\repos\CustomException\CustomException\obj\Debug\netcoreapp3.1\CustomException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\CustomException\CustomException\obj\Debug\netcoreapp3.1\CustomException.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\CustomException\CustomException\obj\Debug\netcoreapp3.1\CustomException.AssemblyInfo.cs
+C:\Users\Hp\source\repos\CustomException\CustomException\obj\Debug\netcoreapp3.1\CustomException.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CustomException\CustomException\obj\Debug\netcoreapp3.1\CustomException.sourcelink.json
+C:\Users\Hp\source\repos\CustomException\CustomException\obj\Debug\netcoreapp3.1\CustomException.dll
+C:\Users\Hp\source\repos\CustomException\CustomException\obj\Debug\netcoreapp3.1\CustomException.pdb
+C:\Users\Hp\source\repos\CustomException\CustomException\obj\Debug\netcoreapp3.1\CustomException.genruntimeconfig.cache
